@@ -1,6 +1,6 @@
 # PryingNet Meraklısına-Sosyal İçerik Platformu
 
-### PryingNet adıyla kurulacak olan magazin hedefli web sitesi kurulumunda en iyi sonucu alabilmek ve kullanıcıya son dakika haber alabileceği, eğlenceli vakit geçirebileceği bir platform sunmakla birlikte tasarımsal olarak modernize edilerek karmaşık ve göz yorucu bir web sitesi yerine verimli, kullanıcı odaklı bir web sitesi sunabilmek amaçlanmıştır.
+## PryingNet magazin hedefli web sitesi kurulumunda en iyi sonucu alabilmek ve kullanıcıya son dakika haber alabileceği, eğlenceli vakit geçirebileceği bir platform sunmakla birlikte tasarımsal olarak modernize edilerek karmaşık ve göz yorucu bir web sitesi yerine verimli, kullanıcı odaklı bir web sitesi sunabilmek amaçlanmıştır.
 
 ###### Şimdilik Spor,Astroloji ve Magazin kategorileri eklenen bu platformda ekleme,silme,güncelleme gibi işlemler yapılabilmektedir.
 
