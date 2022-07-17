@@ -8,9 +8,17 @@
 
 ###### Ayrıca dark-mode/light-mode seçenekleri ile ilgili kullanıcıya görüntüleme seçeneği sunmaktadır.
 
+
+##  Dark-mode
 ![Adsı2z](https://user-images.githubusercontent.com/77288192/179396065-a01ead0e-d6e1-478e-b0f8-653dd1d057aa.png)
 
+
+## Light-mode
 ![Adsızsss](https://user-images.githubusercontent.com/77288192/179396075-39ab4c1b-ba73-40b5-896c-4ea26c9b8c7d.png)
+
+
+## Footer Content
+![Adsısaz](https://user-images.githubusercontent.com/77288192/179396228-d905a497-9add-4a37-ad7b-206fb91fb7fb.png)
 
 
 
